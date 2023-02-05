@@ -1,0 +1,8 @@
+C:\Users\abelm\Desktop\c-sharp-basics\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe.config
+C:\Users\abelm\Desktop\c-sharp-basics\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe
+C:\Users\abelm\Desktop\c-sharp-basics\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.pdb
+C:\Users\abelm\Desktop\c-sharp-basics\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.csproj.AssemblyReference.cache
+C:\Users\abelm\Desktop\c-sharp-basics\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.csproj.SuggestedBindingRedirects.cache
+C:\Users\abelm\Desktop\c-sharp-basics\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.csproj.CoreCompileInputs.cache
+C:\Users\abelm\Desktop\c-sharp-basics\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.exe
+C:\Users\abelm\Desktop\c-sharp-basics\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.pdb

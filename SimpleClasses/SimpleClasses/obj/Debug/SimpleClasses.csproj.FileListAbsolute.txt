@@ -1,0 +1,8 @@
+C:\Users\abelm\Desktop\c-sharp-basics\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.exe.config
+C:\Users\abelm\Desktop\c-sharp-basics\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.exe
+C:\Users\abelm\Desktop\c-sharp-basics\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.pdb
+C:\Users\abelm\Desktop\c-sharp-basics\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.csproj.AssemblyReference.cache
+C:\Users\abelm\Desktop\c-sharp-basics\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\abelm\Desktop\c-sharp-basics\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.csproj.CoreCompileInputs.cache
+C:\Users\abelm\Desktop\c-sharp-basics\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.exe
+C:\Users\abelm\Desktop\c-sharp-basics\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.pdb

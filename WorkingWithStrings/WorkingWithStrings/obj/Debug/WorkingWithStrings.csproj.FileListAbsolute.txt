@@ -1,0 +1,8 @@
+C:\Users\abelm\Desktop\c-sharp-basics\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe.config
+C:\Users\abelm\Desktop\c-sharp-basics\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe
+C:\Users\abelm\Desktop\c-sharp-basics\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.pdb
+C:\Users\abelm\Desktop\c-sharp-basics\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.csproj.AssemblyReference.cache
+C:\Users\abelm\Desktop\c-sharp-basics\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.csproj.SuggestedBindingRedirects.cache
+C:\Users\abelm\Desktop\c-sharp-basics\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\abelm\Desktop\c-sharp-basics\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.exe
+C:\Users\abelm\Desktop\c-sharp-basics\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.pdb
