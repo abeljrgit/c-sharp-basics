@@ -1,0 +1,8 @@
+C:\Users\abelm\Desktop\c-sharp-basics\WhileIteration\WhileIteration\bin\Debug\WhileIteration.exe.config
+C:\Users\abelm\Desktop\c-sharp-basics\WhileIteration\WhileIteration\bin\Debug\WhileIteration.exe
+C:\Users\abelm\Desktop\c-sharp-basics\WhileIteration\WhileIteration\bin\Debug\WhileIteration.pdb
+C:\Users\abelm\Desktop\c-sharp-basics\WhileIteration\WhileIteration\obj\Debug\WhileIteration.csproj.AssemblyReference.cache
+C:\Users\abelm\Desktop\c-sharp-basics\WhileIteration\WhileIteration\obj\Debug\WhileIteration.csproj.SuggestedBindingRedirects.cache
+C:\Users\abelm\Desktop\c-sharp-basics\WhileIteration\WhileIteration\obj\Debug\WhileIteration.csproj.CoreCompileInputs.cache
+C:\Users\abelm\Desktop\c-sharp-basics\WhileIteration\WhileIteration\obj\Debug\WhileIteration.exe
+C:\Users\abelm\Desktop\c-sharp-basics\WhileIteration\WhileIteration\obj\Debug\WhileIteration.pdb
