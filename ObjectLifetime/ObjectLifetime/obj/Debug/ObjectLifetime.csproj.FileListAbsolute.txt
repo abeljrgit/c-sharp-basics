@@ -1,0 +1,8 @@
+C:\Users\abelm\Desktop\c-sharp-basics\ObjectLifetime\ObjectLifetime\bin\Debug\ObjectLifetime.exe.config
+C:\Users\abelm\Desktop\c-sharp-basics\ObjectLifetime\ObjectLifetime\bin\Debug\ObjectLifetime.exe
+C:\Users\abelm\Desktop\c-sharp-basics\ObjectLifetime\ObjectLifetime\bin\Debug\ObjectLifetime.pdb
+C:\Users\abelm\Desktop\c-sharp-basics\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.csproj.AssemblyReference.cache
+C:\Users\abelm\Desktop\c-sharp-basics\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.csproj.SuggestedBindingRedirects.cache
+C:\Users\abelm\Desktop\c-sharp-basics\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.csproj.CoreCompileInputs.cache
+C:\Users\abelm\Desktop\c-sharp-basics\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.exe
+C:\Users\abelm\Desktop\c-sharp-basics\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.pdb
