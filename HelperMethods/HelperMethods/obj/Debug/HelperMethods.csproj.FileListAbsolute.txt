@@ -1,0 +1,8 @@
+C:\Users\abelm\Desktop\c-sharp-basics\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+C:\Users\abelm\Desktop\c-sharp-basics\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe
+C:\Users\abelm\Desktop\c-sharp-basics\HelperMethods\HelperMethods\bin\Debug\HelperMethods.pdb
+C:\Users\abelm\Desktop\c-sharp-basics\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csproj.AssemblyReference.cache
+C:\Users\abelm\Desktop\c-sharp-basics\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\abelm\Desktop\c-sharp-basics\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csproj.CoreCompileInputs.cache
+C:\Users\abelm\Desktop\c-sharp-basics\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+C:\Users\abelm\Desktop\c-sharp-basics\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb

@@ -1,0 +1,8 @@
+C:\Users\abelm\Desktop\c-sharp-basics\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.exe.config
+C:\Users\abelm\Desktop\c-sharp-basics\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.exe
+C:\Users\abelm\Desktop\c-sharp-basics\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.pdb
+C:\Users\abelm\Desktop\c-sharp-basics\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.csproj.AssemblyReference.cache
+C:\Users\abelm\Desktop\c-sharp-basics\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\abelm\Desktop\c-sharp-basics\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.csproj.CoreCompileInputs.cache
+C:\Users\abelm\Desktop\c-sharp-basics\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.exe
+C:\Users\abelm\Desktop\c-sharp-basics\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.pdb

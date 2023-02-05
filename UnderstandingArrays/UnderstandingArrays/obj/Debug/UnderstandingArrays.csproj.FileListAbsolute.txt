@@ -1,0 +1,8 @@
+C:\Users\abelm\Desktop\c-sharp-basics\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe.config
+C:\Users\abelm\Desktop\c-sharp-basics\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe
+C:\Users\abelm\Desktop\c-sharp-basics\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.pdb
+C:\Users\abelm\Desktop\c-sharp-basics\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.csproj.AssemblyReference.cache
+C:\Users\abelm\Desktop\c-sharp-basics\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\abelm\Desktop\c-sharp-basics\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.csproj.CoreCompileInputs.cache
+C:\Users\abelm\Desktop\c-sharp-basics\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.exe
+C:\Users\abelm\Desktop\c-sharp-basics\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.pdb
