@@ -1,0 +1,8 @@
+C:\Users\abelm\Desktop\c-sharp-basics\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.exe.config
+C:\Users\abelm\Desktop\c-sharp-basics\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.exe
+C:\Users\abelm\Desktop\c-sharp-basics\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.pdb
+C:\Users\abelm\Desktop\c-sharp-basics\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.csproj.AssemblyReference.cache
+C:\Users\abelm\Desktop\c-sharp-basics\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.csproj.SuggestedBindingRedirects.cache
+C:\Users\abelm\Desktop\c-sharp-basics\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.csproj.CoreCompileInputs.cache
+C:\Users\abelm\Desktop\c-sharp-basics\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.exe
+C:\Users\abelm\Desktop\c-sharp-basics\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.pdb

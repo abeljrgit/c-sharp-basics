@@ -1,0 +1,8 @@
+C:\Users\abelm\Desktop\c-sharp-basics\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\AssembliesAndNamespaces.exe.config
+C:\Users\abelm\Desktop\c-sharp-basics\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\AssembliesAndNamespaces.exe
+C:\Users\abelm\Desktop\c-sharp-basics\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\AssembliesAndNamespaces.pdb
+C:\Users\abelm\Desktop\c-sharp-basics\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\AssembliesAndNamespaces.csproj.AssemblyReference.cache
+C:\Users\abelm\Desktop\c-sharp-basics\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\AssembliesAndNamespaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\abelm\Desktop\c-sharp-basics\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\AssembliesAndNamespaces.csproj.CoreCompileInputs.cache
+C:\Users\abelm\Desktop\c-sharp-basics\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\AssembliesAndNamespaces.exe
+C:\Users\abelm\Desktop\c-sharp-basics\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\AssembliesAndNamespaces.pdb
