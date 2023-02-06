@@ -1,0 +1,6 @@
+C:\Users\abelm\Desktop\c-sharp-basics\Lesson18\ScrapeLibrary\bin\Debug\ScrapeLibrary.dll
+C:\Users\abelm\Desktop\c-sharp-basics\Lesson18\ScrapeLibrary\bin\Debug\ScrapeLibrary.pdb
+C:\Users\abelm\Desktop\c-sharp-basics\Lesson18\ScrapeLibrary\obj\Debug\ScrapeLibrary.csproj.AssemblyReference.cache
+C:\Users\abelm\Desktop\c-sharp-basics\Lesson18\ScrapeLibrary\obj\Debug\ScrapeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\abelm\Desktop\c-sharp-basics\Lesson18\ScrapeLibrary\obj\Debug\ScrapeLibrary.dll
+C:\Users\abelm\Desktop\c-sharp-basics\Lesson18\ScrapeLibrary\obj\Debug\ScrapeLibrary.pdb

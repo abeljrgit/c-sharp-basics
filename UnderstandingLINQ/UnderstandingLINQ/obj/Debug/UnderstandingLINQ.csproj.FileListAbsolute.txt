@@ -1,0 +1,8 @@
+C:\Users\abelm\Desktop\c-sharp-basics\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\UnderstandingLINQ.exe.config
+C:\Users\abelm\Desktop\c-sharp-basics\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\UnderstandingLINQ.exe
+C:\Users\abelm\Desktop\c-sharp-basics\UnderstandingLINQ\UnderstandingLINQ\bin\Debug\UnderstandingLINQ.pdb
+C:\Users\abelm\Desktop\c-sharp-basics\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\UnderstandingLINQ.csproj.AssemblyReference.cache
+C:\Users\abelm\Desktop\c-sharp-basics\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\UnderstandingLINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\abelm\Desktop\c-sharp-basics\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\UnderstandingLINQ.csproj.CoreCompileInputs.cache
+C:\Users\abelm\Desktop\c-sharp-basics\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\UnderstandingLINQ.exe
+C:\Users\abelm\Desktop\c-sharp-basics\UnderstandingLINQ\UnderstandingLINQ\obj\Debug\UnderstandingLINQ.pdb

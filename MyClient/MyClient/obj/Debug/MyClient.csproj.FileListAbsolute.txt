@@ -1,0 +1,11 @@
+C:\Users\abelm\Desktop\c-sharp-basics\MyClient\MyClient\bin\Debug\MyClient.exe.config
+C:\Users\abelm\Desktop\c-sharp-basics\MyClient\MyClient\bin\Debug\MyClient.exe
+C:\Users\abelm\Desktop\c-sharp-basics\MyClient\MyClient\bin\Debug\MyClient.pdb
+C:\Users\abelm\Desktop\c-sharp-basics\MyClient\MyClient\bin\Debug\MyCodeLibrary.dll
+C:\Users\abelm\Desktop\c-sharp-basics\MyClient\MyClient\bin\Debug\MyCodeLibrary.pdb
+C:\Users\abelm\Desktop\c-sharp-basics\MyClient\MyClient\obj\Debug\MyClient.csproj.AssemblyReference.cache
+C:\Users\abelm\Desktop\c-sharp-basics\MyClient\MyClient\obj\Debug\MyClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\abelm\Desktop\c-sharp-basics\MyClient\MyClient\obj\Debug\MyClient.csproj.CoreCompileInputs.cache
+C:\Users\abelm\Desktop\c-sharp-basics\MyClient\MyClient\obj\Debug\MyClient.csproj.CopyComplete
+C:\Users\abelm\Desktop\c-sharp-basics\MyClient\MyClient\obj\Debug\MyClient.exe
+C:\Users\abelm\Desktop\c-sharp-basics\MyClient\MyClient\obj\Debug\MyClient.pdb

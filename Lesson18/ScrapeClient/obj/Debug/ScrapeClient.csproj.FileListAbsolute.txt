@@ -1,0 +1,11 @@
+C:\Users\abelm\Desktop\c-sharp-basics\Lesson18\ScrapeClient\bin\Debug\ScrapeClient.exe.config
+C:\Users\abelm\Desktop\c-sharp-basics\Lesson18\ScrapeClient\bin\Debug\ScrapeClient.exe
+C:\Users\abelm\Desktop\c-sharp-basics\Lesson18\ScrapeClient\bin\Debug\ScrapeClient.pdb
+C:\Users\abelm\Desktop\c-sharp-basics\Lesson18\ScrapeClient\bin\Debug\ScrapeLibrary.dll
+C:\Users\abelm\Desktop\c-sharp-basics\Lesson18\ScrapeClient\bin\Debug\ScrapeLibrary.pdb
+C:\Users\abelm\Desktop\c-sharp-basics\Lesson18\ScrapeClient\obj\Debug\ScrapeClient.csproj.AssemblyReference.cache
+C:\Users\abelm\Desktop\c-sharp-basics\Lesson18\ScrapeClient\obj\Debug\ScrapeClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\abelm\Desktop\c-sharp-basics\Lesson18\ScrapeClient\obj\Debug\ScrapeClient.csproj.CoreCompileInputs.cache
+C:\Users\abelm\Desktop\c-sharp-basics\Lesson18\ScrapeClient\obj\Debug\ScrapeClient.csproj.CopyComplete
+C:\Users\abelm\Desktop\c-sharp-basics\Lesson18\ScrapeClient\obj\Debug\ScrapeClient.exe
+C:\Users\abelm\Desktop\c-sharp-basics\Lesson18\ScrapeClient\obj\Debug\ScrapeClient.pdb

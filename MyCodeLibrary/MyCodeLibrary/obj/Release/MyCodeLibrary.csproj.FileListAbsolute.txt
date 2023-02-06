@@ -1,0 +1,6 @@
+C:\Users\abelm\Desktop\c-sharp-basics\MyCodeLibrary\MyCodeLibrary\bin\Release\MyCodeLibrary.dll
+C:\Users\abelm\Desktop\c-sharp-basics\MyCodeLibrary\MyCodeLibrary\bin\Release\MyCodeLibrary.pdb
+C:\Users\abelm\Desktop\c-sharp-basics\MyCodeLibrary\MyCodeLibrary\obj\Release\MyCodeLibrary.csproj.AssemblyReference.cache
+C:\Users\abelm\Desktop\c-sharp-basics\MyCodeLibrary\MyCodeLibrary\obj\Release\MyCodeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\abelm\Desktop\c-sharp-basics\MyCodeLibrary\MyCodeLibrary\obj\Release\MyCodeLibrary.dll
+C:\Users\abelm\Desktop\c-sharp-basics\MyCodeLibrary\MyCodeLibrary\obj\Release\MyCodeLibrary.pdb
