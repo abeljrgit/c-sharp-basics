@@ -1,0 +1,8 @@
+C:\Users\abelm\Desktop\c-sharp-basics\HandlingExceptions\HandlingExceptions\bin\Release\HandlingExceptions.exe.config
+C:\Users\abelm\Desktop\c-sharp-basics\HandlingExceptions\HandlingExceptions\bin\Release\HandlingExceptions.exe
+C:\Users\abelm\Desktop\c-sharp-basics\HandlingExceptions\HandlingExceptions\bin\Release\HandlingExceptions.pdb
+C:\Users\abelm\Desktop\c-sharp-basics\HandlingExceptions\HandlingExceptions\obj\Release\HandlingExceptions.csproj.AssemblyReference.cache
+C:\Users\abelm\Desktop\c-sharp-basics\HandlingExceptions\HandlingExceptions\obj\Release\HandlingExceptions.csproj.SuggestedBindingRedirects.cache
+C:\Users\abelm\Desktop\c-sharp-basics\HandlingExceptions\HandlingExceptions\obj\Release\HandlingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\abelm\Desktop\c-sharp-basics\HandlingExceptions\HandlingExceptions\obj\Release\HandlingExceptions.exe
+C:\Users\abelm\Desktop\c-sharp-basics\HandlingExceptions\HandlingExceptions\obj\Release\HandlingExceptions.pdb

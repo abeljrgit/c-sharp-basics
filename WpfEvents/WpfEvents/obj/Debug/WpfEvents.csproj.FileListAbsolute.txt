@@ -1,0 +1,16 @@
+C:\Users\abelm\Desktop\c-sharp-basics\WpfEvents\WpfEvents\bin\Debug\WpfEvents.exe.config
+C:\Users\abelm\Desktop\c-sharp-basics\WpfEvents\WpfEvents\bin\Debug\WpfEvents.exe
+C:\Users\abelm\Desktop\c-sharp-basics\WpfEvents\WpfEvents\bin\Debug\WpfEvents.pdb
+C:\Users\abelm\Desktop\c-sharp-basics\WpfEvents\WpfEvents\obj\Debug\WpfEvents.csproj.AssemblyReference.cache
+C:\Users\abelm\Desktop\c-sharp-basics\WpfEvents\WpfEvents\obj\Debug\WpfEvents.csproj.SuggestedBindingRedirects.cache
+C:\Users\abelm\Desktop\c-sharp-basics\WpfEvents\WpfEvents\obj\Debug\MainWindow.g.cs
+C:\Users\abelm\Desktop\c-sharp-basics\WpfEvents\WpfEvents\obj\Debug\App.g.cs
+C:\Users\abelm\Desktop\c-sharp-basics\WpfEvents\WpfEvents\obj\Debug\WpfEvents_MarkupCompile.cache
+C:\Users\abelm\Desktop\c-sharp-basics\WpfEvents\WpfEvents\obj\Debug\WpfEvents_MarkupCompile.lref
+C:\Users\abelm\Desktop\c-sharp-basics\WpfEvents\WpfEvents\obj\Debug\MainWindow.baml
+C:\Users\abelm\Desktop\c-sharp-basics\WpfEvents\WpfEvents\obj\Debug\WpfEvents.g.resources
+C:\Users\abelm\Desktop\c-sharp-basics\WpfEvents\WpfEvents\obj\Debug\WpfEvents.Properties.Resources.resources
+C:\Users\abelm\Desktop\c-sharp-basics\WpfEvents\WpfEvents\obj\Debug\WpfEvents.csproj.GenerateResource.cache
+C:\Users\abelm\Desktop\c-sharp-basics\WpfEvents\WpfEvents\obj\Debug\WpfEvents.csproj.CoreCompileInputs.cache
+C:\Users\abelm\Desktop\c-sharp-basics\WpfEvents\WpfEvents\obj\Debug\WpfEvents.exe
+C:\Users\abelm\Desktop\c-sharp-basics\WpfEvents\WpfEvents\obj\Debug\WpfEvents.pdb
